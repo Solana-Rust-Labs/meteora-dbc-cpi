@@ -1,5 +1,5 @@
 [package]
-name = "meteora_dbc_cpi"
+name = "meteora-dbc-cpi"
 version = "0.1.0"
 edition = "2021"
 
